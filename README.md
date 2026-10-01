@@ -18,4 +18,4 @@ I turn messy data into clear answers for business decisions.
 | Coming soon | | |
 
 ## 📫 Connect
-[LinkedIn](your-link) · [Tableau Public](your-link) · [Kaggle](your-link)
+https://github.com/adizatu . https://www.linkedin.com/in/adizatu-karfo-39379b94/ · https://public.tableau.com/app/profile/adizatu.karfo/vizzes · https://www.kaggle.com/adizatukarfo
